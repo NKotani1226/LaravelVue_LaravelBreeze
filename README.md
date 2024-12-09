@@ -11,6 +11,7 @@
 - docker-compose build
 - docker-compose up
 - docker-compose exec app bash
+- cp .env.example .env
 - composer install
 - npm install
 - chmod -R guo+w storage
